@@ -54,3 +54,17 @@ g++ main.cpp calculator.cpp -o calculator
 Author
 
 Built as a C++ practice project to strengthen problem-solving and programming fundamentals.
+
+## Screenshots
+
+### Project Overview
+![Project Overview](screenshots/overview.png)
+
+### Main Function
+![Main Function](screenshots/main-cpp.png)
+
+### Header File
+![Header File](screenshots/file-hpp.png)
+
+### Implementation
+![Implementation](screenshots/calculator-cpp.png)
